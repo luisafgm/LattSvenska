@@ -1,9 +1,9 @@
-# Lätt Svenska
+# Sueco Simple
 
-**Lätt Svenska** es una aplicación interactiva para aprender sueco, con un enfoque en vocabulario, verbos, adjetivos y frases comunes.
+Aprende sueco desde el español.
 
-## Instalación
 
-1. Clona el repositorio:
-```bash
-git clone https://github.com/luisafgm/LattSvenska.git
+
+## Instalar y usar
+### `npm install`
+### `npm start`

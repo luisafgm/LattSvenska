@@ -1,6 +1,6 @@
 // src/components/Tarjeta.js
 import React from 'react';
-import './tarjeta.css';
+import './Tarjeta.css';
 
 function Tarjeta({ palabraEsp, palabraSue }) {
   return (
